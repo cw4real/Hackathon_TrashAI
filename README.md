@@ -8,7 +8,7 @@
 
 Hackathon_TrashAI是2023年梅竹黑客松中完成的項目，使用NXP RT1060開發板、Arduino和Python開發。該項目旨在實現垃圾分類的自動化，利用機器學習技術識別並分類不同類型的垃圾。
 
-![項目示意圖](https://github.com/cw4real/Hackathon_TrashAI/blob/main/webcam_shot.jpg)
+![項目示意圖](https://github.com/cw4real/Hackathon_TrashAI/blob/main/mchack.jpg)
 
 ## 特色
 
